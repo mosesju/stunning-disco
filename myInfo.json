@@ -1,12 +1,12 @@
 {
-"firstName":"",
-"lastname:"",
-"prefName":"",
-"teamName:"",
+"firstName":"Jacob",
+"lastname:"Walenga",
+"prefName":"Jake",
+"teamName:"Ocelots",
 "seatLoc":{
-	"row":""
-	"col":""
-	"seatNum":""
+	"row":"4"
+	"col":"2 from the wall"
+	"seatNum":"4.2"
 	}
-"role":""
+"role":"Project Owner"
 }
