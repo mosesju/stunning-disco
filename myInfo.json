@@ -1,0 +1,12 @@
+{
+"firstName":"",
+"lastname:"",
+"prefName":"",
+"teamName:"",
+"seatLoc":{
+	"row":""
+	"col":""
+	"seatNum":""
+	}
+"role":""
+}
